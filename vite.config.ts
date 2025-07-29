@@ -9,9 +9,9 @@ export default defineConfig({
         VitePWA({
             registerType: "autoUpdate",
             manifest: {
-                name: "高校数学学習アプリ",
+                name: "中学数学学習アプリ",
                 short_name: "MathApp",
-                description: "高校数学を学べるPWAアプリ",
+                description: "中学数学を学べるPWAアプリ",
                 theme_color: "#2563eb",
                 background_color: "#f8fafc",
                 display: "standalone",
